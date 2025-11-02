@@ -226,9 +226,6 @@ bindsym $mod+r mode "resize"
     # Special key to take a screenshot with grim
     bindsym Print exec grim
 
-exec nm-applet --indicator
-exec mullvad-vpn
-
 #
 # Status Bar:
 #
